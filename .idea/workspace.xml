@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63584cf2-09bd-4c21-9817-56f11aec0051" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3_Ex3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/L3_Ex3.iml" afterDir="false" />
+    <list default="true" id="63584cf2-09bd-4c21-9817-56f11aec0051" name="Changes" comment=" h">
       <change beforePath="$PROJECT_DIR$/src/L3_Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L3_Ex3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +15,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "zhenia987"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/zhenia987/L3_Ex3.git",
@@ -67,11 +71,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719237486738</updated>
-      <workItem from="1719237487794" duration="4654000" />
+      <workItem from="1719237487794" duration="4931000" />
     </task>
+    <task id="LOCAL-00001" summary=" h">
+      <option name="closed" value="true" />
+      <created>1719242515804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719242515805</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" h" />
+    <option name="LAST_COMMIT_MESSAGE" value=" h" />
   </component>
 </project>

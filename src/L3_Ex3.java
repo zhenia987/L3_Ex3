@@ -90,23 +90,18 @@ public class L3_Ex3 {
                 15
         );
 
-        //Ищем кнопку "Стрелка-назад" и тапаем по ней
-        waitForElementForClick(
-                By.xpath("//*[@content-desc='Navigate up']"),
-                "Can not find input id 'org.wikipedia:id/search_close_btn'",
-                15
-        );
 
-
-        //Проверяем что на нашей странице больше нет найденных топиков   g
+        //Проверяем что на нашей странице больше нет найденных топиков
         waitForElementNotPresent(
-                By.id("org.wikipedia:id/search_close_bt"),
-                "X is still present on page",
+                By.xpath("//*[@text='Island in Indonesia']"),
+                "Find 'Island in Indonesia' topic",
                 15
         );
 
 }
-        //___Тут мы пишем методы/функции___
+
+
+//___Тут мы пишем методы/функции______________________________________________
 
         //Пишем метод на ожидание элемента и его клик
         private WebElement waitForElementForClick(By by, String error_message, long timeoutInSeconds)
